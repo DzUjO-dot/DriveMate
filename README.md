@@ -30,27 +30,27 @@ Aplikacja mobilna do zarządzania pojazdami i kontrolowania wydatków związanyc
 
 ## Zależności
 
-@react-navigation/native
-@react-navigation/native-stack
-@react-native-async-storage/async-storage
-expo, expo-status-bar
-react-native-vector-icons
-react-native-safe-area-context
-react-native-screens, react-native-gesture-handler
+- @react-navigation/native
+- @react-navigation/native-stack
+- @react-native-async-storage/async-storage
+- expo, expo-status-bar
+- react-native-vector-icons
+- react-native-safe-area-context
+- react-native-screens, react-native-gesture-handler
 
 ## Architektura projektu
 
-/screens – wszystkie ekrany aplikacji
-/context – globalny kontekst użytkownika
-/assets – ikony, logo, splash screen
-App.tsx – główny punkt wejściowy
-AppNavigator.tsx – nawigacja ekranów
+- /screens – wszystkie ekrany aplikacji
+- /context – globalny kontekst użytkownika
+- /assets – ikony, logo, splash screen
+- App.tsx – główny punkt wejściowy
+- AppNavigator.tsx – nawigacja ekranów
 
 ## Autorzy
-Imię i nazwisko: 
+- Imię i nazwisko: 
 
-Adrian Jaroń
-Oskar Trościanko
+- Adrian Jaroń
+- Oskar Trościanko
 
 ##  Jak uruchomić projekt
 
