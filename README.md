@@ -11,9 +11,7 @@ Aplikacja mobilna do zarządzania pojazdami i kontrolowania wydatków związanyc
 - Rejestrowanie tankowań z datą, ceną i przebiegiem
 - Statystyki zużycia paliwa (średnia, suma, historia)
 - Przechowywanie danych lokalnie z użyciem AsyncStorage
-- Obsługa trybu ciemnego/jasnego (planowane)
-- Skanowanie dokumentów i zapisywanie zdjęć (planowane)
-- Przypomnienia push (planowane)
+- Skanowanie dokumentów i zapisywanie zdjęć
 
 ---
 
