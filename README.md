@@ -55,7 +55,8 @@ Aplikacja mobilna do zarządzania pojazdami i kontrolowania wydatków związanyc
 
 Projekt dostępny na licencji **MIT** – możesz go używać, kopiować, modyfikować i rozpowszechniać, pod warunkiem dołączenia informacji o autorze i licencji.
 
-Zobacz pełną treść w pliku [LICENSE](LICENSE).
+Zobacz pełną treść licencji tutaj:  
+[LICENSE](https://github.com/DzUjO-dot/DriveMate/blob/main/LICENSE#L7)
 ---
 
 ## Autorzy
