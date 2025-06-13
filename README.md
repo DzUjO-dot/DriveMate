@@ -38,6 +38,8 @@ Aplikacja mobilna do zarządzania pojazdami i kontrolowania wydatków związanyc
 - react-native-safe-area-context
 - react-native-screens, react-native-gesture-handler
 
+---
+
 ## Architektura projektu
 
 - /screens – wszystkie ekrany aplikacji
@@ -46,12 +48,23 @@ Aplikacja mobilna do zarządzania pojazdami i kontrolowania wydatków związanyc
 - App.tsx – główny punkt wejściowy
 - AppNavigator.tsx – nawigacja ekranów
 
+---
+---
+
+## Licencja
+
+Projekt dostępny na licencji **MIT** – możesz go używać, kopiować, modyfikować i rozpowszechniać, pod warunkiem dołączenia informacji o autorze i licencji.
+
+Zobacz pełną treść w pliku [LICENSE](LICENSE).
+---
+
 ## Autorzy
 - Imię i nazwisko: 
 
 - Adrian Jaroń
 - Oskar Trościanko
 
+---
 ##  Jak uruchomić projekt
 
 ```bash
