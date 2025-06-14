@@ -73,11 +73,11 @@ Zobacz pełną treść licencji tutaj:
 git clone https://github.com/DzUjO-dot/DriveMate.git
 cd DriveMate
 
-# 2. Instalacja zależności
-npm install
-
-# 3. Instalacja Node.js
+# 2. Instalacja Node.js
 https://nodejs.org/en
+
+# 3. Instalacja zależności
+npm install
 
 # 4. Instalacja Expo CLI
 npm install  expo-cli
